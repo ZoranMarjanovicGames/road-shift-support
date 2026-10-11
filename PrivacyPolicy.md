@@ -1,21 +1,45 @@
-# Privacy Policy for Road Shift
+#Privacy Policy for Road Shift
+Last updated: October 11, 2026
 
-Zoran Marjanovic built the Road Shift app as a Free app. This SERVICE is provided by Zoran Marjanovic at no cost and is intended for use as is.
+Road Shift is a free app made by Zoran Marjanovic ("I", "me"). This policy
+explains what data the app handles and why.
 
-**Information Collection and Use**
-The developer does not collect any personal data directly. However, the app does use third-party services that may collect information used to identify you and serve personalized advertisements.
+DATA I COLLECT
+None. I do not collect, store or receive any personal data. There are no
+accounts. Your game progress, settings and unlocks are saved only on your
+device and are never sent to me. Deleting the app deletes them.
 
-**Third-Party Services (Google AdMob)**
-Road Shift uses Google AdMob to display advertisements. To provide this service, Google AdMob may collect and use data such as:
-*   Device Identifiers (Device ID)
-*   Coarse Location
-*   Usage Data & Product Interaction
-*   Advertising Data
+ADVERTISING (GOOGLE ADMOB)
+Road Shift shows ads through Google AdMob. To serve and measure ads, Google
+may collect and process:
+- Device identifiers (such as the Advertising Identifier, IDFA)
+- Coarse location (derived from your IP address)
+- Usage data (product interaction, advertising data)
+- Diagnostics (crash and performance data)
+This data is collected and processed by Google, not by me. Google is
+required to protect it at least as well as described here. See:
+- Google Privacy Policy: https://policies.google.com/privacy
+- How Google uses data from apps that use its services:
+  https://policies.google.com/technologies/partner-sites
 
-This data is collected and processed solely by Google AdMob for the purpose of third-party advertising and analytics. For more information on how Google uses this data, please review the [Google Privacy Policy](https://policies.google.com/privacy).
+TRACKING AND YOUR CHOICES
+- On iOS, the app asks your permission before your Advertising Identifier
+  may be used to track you across other companies' apps and websites. If you
+  choose "Ask App Not to Track", ads are still shown, but they are not
+  personalized with that identifier. You can change this at any time in
+  iOS Settings > Privacy & Security > Tracking.
+- In the EEA, the UK and Switzerland, the app asks for your consent before
+  personalized ads are shown. You can review or withdraw your consent at any
+  time in the game: Settings > Credits & Data > Ad Privacy.
 
-**Changes to This Privacy Policy**
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes.
+DATA RETENTION AND DELETION
+I hold no data about you, so there is nothing for me to delete. Data
+collected by Google is retained and deleted according to Google's Privacy
+Policy; you can manage it at https://myadcenter.google.com.
 
-**Contact Us**
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me by opening an Issue in this GitHub repository.
+CHILDREN
+Road Shift is not directed at children under 13, and I do not knowingly
+collect data from them.
+
+CHANGES
+I may update this policy. Changes are posted on this page with a new date.
